@@ -2,7 +2,7 @@
 
 This is a demo respository for Logitech Git Comprehensive training course.
 
-Demo item:
+# Demo item:
 
 - Git reset
 - Git rebase
@@ -10,4 +10,3 @@ Demo item:
 - Git commit amend
 - Git hooks
 
-TBA...
